@@ -1,1 +1,11 @@
-<a href="https://wdxszz.github.io/wdxszz/wyh.html"><button type="button" style="font-size: 80px;">进入</button></a>
+
+<DOCTYPE html>
+    <html>
+        <head>
+          <meta property="og:url" content="https://wdxszz.github.io/">
+        </head>
+        <body>
+          <h1>juuu</h1>
+        </body>
+    </html>
+    
